@@ -3,7 +3,7 @@
 使用 [Generic Agent](https://github.com/lsdefine/GenericAgent) 进行 Litex 数学证明的技能包和配置。
 Generic Agent Github地址：https://github.com/lsdefine/GenericAgent
 
-> **重要**: 本项目使用 [Generic Agent](https://github.com/lsdefine/GenericAgent) 作为 AI Agent 框架，不是独立开发的 agent。Generic Agent 是一个通用的 AI 代理系统，本仓库提供的是让 Generic Agent 掌握 Litex 证明语言并进行数学题解题的技能。
+> **重要**: 本项目引用 [Generic Agent](https://github.com/lsdefine/GenericAgent) 作为 AI Agent 框架，不是本项目独立开发的 agent。Generic Agent 是一个通用的 AI 代理系统，本仓库提供的是让 Generic Agent 掌握 Litex 证明语言并进行数学题解题的技能。
 
 ## 📋 项目简介
 
