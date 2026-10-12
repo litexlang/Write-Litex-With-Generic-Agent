@@ -1,13 +1,14 @@
 # Write Litex With Generic Agent
 
 使用 [Generic Agent](https://github.com/lsdefine/GenericAgent) 进行 Litex 数学证明的技能包和配置。
+感谢 [Generic Agent](https://github.com/lsdefine/GenericAgent) 提供强大的 AI Agent框架
 
-> **重要**: 本项目使用 [Generic Agent](https://github.com/lsdefine/GenericAgent) 作为 AI Agent 框架，不是独立开发的 agent。Generic Agent 是一个通用的 AI 代理系统，本仓库提供的是让 Generic Agent 掌握 Litex 证明语言的技能包（Skills）和记忆配置（Memory）。
+> **重要**: 本项目使用 [Generic Agent](https://github.com/lsdefine/GenericAgent) 作为 AI Agent 框架，不是独立开发的 agent。Generic Agent 是一个通用的 AI 代理系统，本仓库提供的是让 Generic Agent 掌握 Litex 证明语言并进行数学题解题的技能。
 
 ## 📋 项目简介
 
 本项目包含：
-- **`generic agent/`**: 配置好的 Generic Agent 实例，包含 Litex 做题所需的记忆结构
+- **`generic agent/`**: 配置好的 Generic Agent 实例
 - **`litex_skill/`**: Litex 证明语言的完整技能包（SOP 和工具）
 
 通过这些配置，Generic Agent 可以：
@@ -184,8 +185,7 @@ Generic Agent 遵循以下 6 阶段流程：
 
 ## 🙏 致谢
 
-- 感谢 [Generic Agent](https://github.com/lsdefine/GenericAgent) 提供强大的 AI 代理框架
-- 感谢 Litex 社区提供优秀的证明语言工具
+- 感谢 [Generic Agent](https://github.com/lsdefine/GenericAgent) 提供强大的 AI Agent框架
 
 ## 📮 反馈
 
